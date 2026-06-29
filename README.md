@@ -9,7 +9,7 @@
 </p>
 
 
-<img src="12326321_original.jpg" width="99" height="56">
+<img src="12326321_original.jpg" width="100" height="56">
 
 
 <div align="right">
@@ -18,7 +18,7 @@
 
 
 <div align="right">
-  <img src="yourbuttismine.gif" style="vertical-align: top;">
+  <img src="yourbuttismine.gif" style="vertical-align: top; width="200" height="100">
 </div>
 
 
