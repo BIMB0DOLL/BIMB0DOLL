@@ -17,9 +17,6 @@
 </div>
 
 
-<div align="right">
-  <img src="yourbuttismine.gif" style="vertical-align: top; width="200" height="100">
-</div>
 
 
 
