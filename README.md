@@ -32,8 +32,6 @@
 </div>
 
 
-<p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D3E51&center=true&multiline=true&random=true&width=238&lines=You+need+to+%F0%9D%93%AC%F0%9D%93%BE%F0%9D%93%B6+%3C%F0%9D%9F%91+.%E1%90%9F" alt="Typing SVG" /></a>
 
 
 
