@@ -3,13 +3,16 @@
 
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+   
+<a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ta24pzoxmdktmrcgvxhzs4iwfq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=e6c5d8&bar_color_cover=false">
   </a>
 </p>
 
 
 <img src="12326321_original.jpg" width="60" height="56">
+
+
 
 <p align="center">
 <a href="bimb0doll.straw.page">sp⁠⊙⁠_⁠◎</a>
@@ -29,6 +32,8 @@
 </div>
 
 
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D3E51&center=true&multiline=true&random=true&width=238&lines=You+need+to+%F0%9D%93%AC%F0%9D%93%BE%F0%9D%93%B6+%3C%F0%9D%9F%91+.%E1%90%9F" alt="Typing SVG" /></a>
 
 
 
